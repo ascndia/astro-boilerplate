@@ -1,7 +1,12 @@
-# Astro Starter Kit: Minimal
+# Astro Starter Kit: Boilerplate by Ascndia
 
 ```sh
-npm create astro@latest -- --template minimal
+git clone https://github.com/ascndia/astro-boilerplate.git
+# change branch
+git checkout branch-name
+git rebase
+yarn install
+yarn dev
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
